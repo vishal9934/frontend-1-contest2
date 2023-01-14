@@ -287,3 +287,6 @@ top: 170px;
 border: 1px solid #FFFFFF;
 transform: rotate(90deg);
 }
+body{
+    background: #1E1E1E;
+}
